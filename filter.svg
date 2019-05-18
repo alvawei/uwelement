@@ -1,0 +1,7 @@
+<svg>
+  <defs>
+    <filter id="purplify">
+      <feColorMatrix type="matrix" values="0 0 0 0 .3216  0 0 0 0 .1843  0 0 0 0 .4902  0 0 0 1 0"/>
+    </filter>
+  </defs>
+</svg>
